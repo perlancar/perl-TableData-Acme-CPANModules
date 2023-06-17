@@ -1,0 +1,4 @@
+TableData-Acme-CPANModules-*
+.build
+*~
+nytprof*
