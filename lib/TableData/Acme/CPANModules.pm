@@ -94,3 +94,12 @@ Known arguments:
 Required.
 
 =back
+
+
+=head1 SEE ALSO
+
+L<Acme::CPANModules>
+
+L<cpanmodules> from L<App::cpanmodules>
+
+L<App::CPANModulesUtils>
