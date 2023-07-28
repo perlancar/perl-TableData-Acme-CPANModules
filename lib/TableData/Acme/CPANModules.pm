@@ -62,7 +62,8 @@ with 'TableDataRole::Acme::CPANModules';
 # STATS
 
 1;
-# ABSTRACT: Entries from a Acme::CPANModules::* module
+# PODNAME: TableData::Acme::CPANModules
+# ABSTRACT: Entries from an Acme::CPANModules::* module
 
 =head1 SYNOPSIS
 
